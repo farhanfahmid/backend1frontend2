@@ -1,0 +1,141 @@
+/* Header Styles */
+header {
+    background-color: darkslategrey;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Ranking Table Styles */
+  #ranking-table {
+    margin: 20px;
+    background-color: white;
+  }
+  
+  #search-input {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 200px;
+  }
+  
+  #leaderboard-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #leaderboard-table th,
+  #leaderboard-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    background-color:whitesmoke;
+    text-align: center;
+    
+    
+  }
+  
+  #leaderboard-table th {
+    background-color: lightsteelblue;
+    font-weight: bold;
+    cursor: pointer;
+    
+  }
+  
+ 
+
+#featured-player-section {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+#recent-activity-section {
+  background-color: #eaeaea;
+  padding: 20px;
+  
+}
+
+#top-countries-section {
+  background-color: #f9f9f9;
+  padding: 20px;
+}
+
+/* styles for the content within each section */
+#featured-player-section h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+#recent-activity-section h2 {
+  color: black;
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+#top-countries-section h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+#featured-player-section p {
+  color: #666;
+  font-size: 18px;
+}
+
+#recent-activity-section ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#recent-activity-section li {
+  margin-bottom: 10px;
+  color: black;
+}
+
+#top-countries-section table {
+  width: 100%;
+}
+
+#top-countries-section th {
+  background-color: #ccc;
+  color: #333;
+  padding: 10px;
+}
+
+#top-countries-section td {
+  padding: 10px;
+}
+
+
+
+#top-countries-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#top-countries-table th,
+#top-countries-table td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+
+#top-countries-heading-style{
+  font-size: x-large;
+  text-align: right;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-weight: bolder;
+  font-stretch: extra-expanded;
+
+}
+
+
+
+
+
+
+  
